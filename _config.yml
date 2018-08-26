@@ -1,11 +1,11 @@
 # Site settings
 author: Endya Watson
-title: 
+title: Endya Codes in Color
 header-img: img/home-bg.png
 email: watson.endya@gmail.com
 copyright_name: Endya Watson
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A black women's journey to becoming a software developer
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  ewatson94
